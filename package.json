@@ -1,6 +1,6 @@
 {
   "name": "custom-hooks-kit",
-  "version": "0.1.2",
+  "version": "0.2.0",
   "description": "a collection of powerful custom hooks designed to simplify and enhance your React.js projects.",
   "main": "src/index.js",
   "dependencies": {
